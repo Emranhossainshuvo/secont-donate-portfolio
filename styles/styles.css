@@ -33,6 +33,7 @@ header section button{
     border-style: none;
     border-radius: 10px;
     margin-top: 25px;
+    color: #ffffff;
 }
 main section section{
     text-align: center;
@@ -57,5 +58,56 @@ main section section p{
 }
 main section section div{
     display: flex;
-    text-align: center;
+    justify-content: center;
+    gap: 22px;
+    
+}
+.amount{
+    height: 123px;
+    width: 136px;
+    background: #FAFAFA;
+    
+}
+main span{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 43px;
+    padding-right: 25px;
+    padding-bottom: 44px;
+    padding-left: 24px;
+    color: #707070;
+}
+.special{
+     border: 2px solid #FF5959;
+     border-radius: 5px;
+     background: #ffeeee;
+}
+.taka-amount{
+    height: 28px;
+    width: 192px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+    position: relative;
+    top: 60px;
+   
+}
+.hr{
+    position: relative;
+    top: 60px;
+    width: 765px;
+    border: 1px solid #DADADA
+}
+.second-button{
+    background: #FF5959;
+    width: 160px;
+    height: 56px;
+    border-style: none;
+    border-radius: 10px;
+    margin-top: 25px;
+    color: #ffffff;
+    position: relative;
+    top: 55px;
 }

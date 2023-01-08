@@ -1,0 +1,61 @@
+header section{
+    text-align: center;
+    padding: 250px;
+}
+header{
+    background-image: url(../images/donation9.jpg);
+    background-size: cover;
+    background-color: gray;
+    height: 769px;
+    width: 1860px;
+    background-blend-mode: multiply;
+}
+header section h1{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 65px;
+    font-weight: 700;
+    
+}
+header section p{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: -20px;
+}
+header section button{
+    background: #FF5959;
+    width: 160px;
+    height: 56px;
+    border-style: none;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+main section section{
+    text-align: center;
+    margin-top: 134px;
+   
+}
+main section section h1{
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+main section section p{
+    color: #707070;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 30px;
+
+}
+main section section div{
+    display: flex;
+    text-align: center;
+}
